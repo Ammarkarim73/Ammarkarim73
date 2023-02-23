@@ -1,6 +1,5 @@
-<p align="center"> 
-  Visitor count<br>
-  <img src="panther.gif" />
+<p align="center">
+  <img src="BlackPanther.gif" />
 </p>
 
 
