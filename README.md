@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="BlackPanther.gif" />
-</p>
-
 
 <a href=#><img src="contributions.svg"></a>
 
